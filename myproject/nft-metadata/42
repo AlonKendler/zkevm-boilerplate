@@ -1,0 +1,29 @@
+{
+  "id": 42,
+  "image": "https://lime-obliged-sole-931.mypinata.cloud/ipfs/QmSPknviCBUJ7VvvscnVuR9WzUt64PnvRpjJ2mPhnu1abz?_gl=1*nj9zes*_ga*MTc4Nzk0NzM2MS4xNjk1ODk5NTE0*_ga_5RMPXG14TE*MTY5NTg5OTUxNC4xLjEuMTY5NTg5OTg1OC42MC4wLjA.",
+  "token_id": "1",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Test2 - Gary with corgi",
+  "description": "This NFT is my first zkEVM NFT created on Immutable, by Alon",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Theme",
+      "value": "Pixar"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Space-hole"
+    },
+    {
+      "trait_type": "Dog",
+      "value": "Corgi"
+    },
+    {
+        "trait_type": "hair",
+        "value": "None"
+      }
+  ]
+}
